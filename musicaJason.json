@@ -1,12 +1,12 @@
 {
   "audio": [
     {
-      "nombre": "musicaCartoon",
+      "titulo": "musicaCartoon",
       "url": "https://github.com/ashvera-glitch/gestionAudios/raw/refs/heads/main/musicaCartoon.mp3",
       "": ""
     },
     {
-      "nombre": "musicaRock",
+      "titulo": "musicaRock",
       "url": "https://github.com/ashvera-glitch/gestionAudios/raw/refs/heads/main/musicarock.mp3",
       "": ""
     }
